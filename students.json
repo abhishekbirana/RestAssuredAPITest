@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "cources": [
+                "C#",
+                "C++"
+            ],
+            "phone": "123532",
+            "name": "Smith",
+            "location": "Germany",
+            "id": 1
+        },
+        {
+            "cources": [
+                "C#",
+                "C++"
+            ],
+            "phone": "8654567",
+            "name": "Allen",
+            "location": "Russia",
+            "id": 2
+        },
+        {
+            "cources": [
+                "C#",
+                "C++"
+            ],
+            "phone": "345678087",
+            "name": "Miller",
+            "location": "Europe",
+            "id": 3
+        }
+    ]
+}
